@@ -1,4 +1,5 @@
-# BigData-EnergyEfiiciency
+# Big Data Final Project
+
 
 ![슬라이드1](https://github.com/gamjatan9/BigData-EnergyEfficiency/assets/122338050/53f5df34-0a37-4f02-8fa1-42019f2539d9)
 ![슬라이드2](https://github.com/gamjatan9/BigData-EnergyEfficiency/assets/122338050/c25ba437-7476-4654-8313-1bf3b218bd52)
